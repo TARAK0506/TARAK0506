@@ -1,5 +1,10 @@
 <h1 align=  "center"  >Hi 👋, I'm Taraka Rama Rao Muddada  </h1>
+<div align="center">
+ <img src ="./banner.jpg" />
+</div>
 
+<br><br>
+<br><br>
 
 <div align = "left"  >
   <h2 align = "left"  >  🚀Coding Profiles </>  </h2>
@@ -20,10 +25,15 @@
 <h2 align= "left">  Connect with me : </h2>
 <p>
  
- <a href="http://www.linkedin.com/in/tarak0506/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
- <a href="https://github.com/TARAK0506/" target="_blank"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" /></a>
+ <a href="http://www.linkedin.com/in/tarak0506/" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/> </a> 
+ 
+ <a href="https://github.com/TARAK0506/" target="_blank"> <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" style="margin-bottom: 5px;"  height="30px"/> </a>
     
 </p>
+
+
+
+
   
 
 
