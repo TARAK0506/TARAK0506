@@ -9,6 +9,13 @@
  <img src ="image.jpg">
 </div>
 
+<br>
+
+- 🔭 I’m interested in Machine Learning, Deep Learning, Computer Vision
+- 🌱 I graduated with a Bachelor of Technology degree from GMR Institute of Technology.
+- 📫 How to reach me tarakaramarao0506@gmail.com
+  
+
 <div align = "left" >
   <h2 align = "left" >  🚀Coding Profiles </>  </h2>
    
