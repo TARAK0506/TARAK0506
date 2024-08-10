@@ -1,6 +1,6 @@
 <h1 align=  "center"  >Hi 👋, I'm Taraka Rama Rao Muddada  </h1>
 <div align="center">
- <img src ="./banner.jpg" />
+ <img src ="banner.jpg" />
 </div>
 
 <br><br>
