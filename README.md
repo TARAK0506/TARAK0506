@@ -1,10 +1,14 @@
-<h1 align=  "center"  >Hi 👋, I'm Taraka Rama Rao Muddada  </h1>
-<div align="center">
+<h2 align="left">
+ <abc>
+  <br>Hi there ! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <br> I'm Taraka Rama Rao Muddada <br>
+  <br> <br>
+  <br>
+ </abc>
+</h2> 
+<div align="left">
  <img src ="banner.jpg" />
 </div>
-
-<br><br>
-<br><br>
 
 <div align = "left"  >
   <h2 align = "left"  >  🚀Coding Profiles </>  </h2>
@@ -17,7 +21,6 @@
    
    <a href= "https://www.hackerrank.com/profile/tarak0506" target=  "blank" >  <img align=  "left" src=  "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"  alt = "tarak0506" height="30" width="40" />  </a>
   
-   
 </div>
 
 <br> 
