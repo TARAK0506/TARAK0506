@@ -9,7 +9,7 @@
 </h2> 
 
 <div align="left">
- <img src ="banner.jpg" />
+ <img src ="image.jpg" />
 </div>
 
 <div align = "left"  >
