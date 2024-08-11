@@ -1,9 +1,12 @@
 ## Hi there 👋 I am Taraka Rama Rao Muddada
 ### I love problem solving
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TARAK0506&label=Profile%20views&color=0e75b6&style=flat" alt="tarak" /> </p>
+
 <div align="left">
  <img src ="image.jpg">
 </div>
+
 
 <br>
 
