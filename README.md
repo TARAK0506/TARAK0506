@@ -11,9 +11,12 @@
 
 <br>
 
-- 🔭 I’m interested in Machine Learning, Deep Learning, Computer Vision
-- 🌱 I graduated with a Bachelor of Technology degree from GMR Institute of Technology.
-- 📫 How to reach me tarakaramarao0506@gmail.com
+<h2>👨‍💻 About Me :</h2>
+<p>
+- 🔭 I’m interested in Machine Learning, Deep Learning, Natural Language Processing. <br>
+- 🌱 I graduated with a Bachelor of Technology degree from GMR Institute of Technology. <br>
+- 📫 How to reach me tarakaramarao0506@gmail.com<br>
+</p>
   
 
 <div align = "left" >
@@ -34,7 +37,7 @@
 
 <br> 
 
-  <h2 align= "left">  Connect with me : </h2>
+  <h2 align= "left">  🏷️Connect with me : </h2>
    <p>
    <a href="http://www.linkedin.com/in/tarak0506/" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
    <a href="https://github.com/TARAK0506/" target="_blank"> <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" style="margin-bottom: 5px;"  height="30px"/> </a>
