@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Taraka Rama Rao Muddada
-### I love problem solving
 
+<img src= "https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt ="Portfolio" />
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=tarak0506&label=Profile%20Views&color=0&icon=0&pretty=true" />
 </a>
@@ -15,11 +15,12 @@
 
 **I am deeply passionate about problem-solving and enthusiastic about Data Science, with a strong drive to address real-life challenges. My profound interest in Data Science fuels my eagerness to contribute to open source projects. My goal is to develop a career in Data Science, leveraging my skills and enthusiasm to make a meaningful impact.**
 
+- 👨🏻‍💻 I Love Problem Solving <br>
 - 🌱 I’m currently learning ... Data Science <br>
-- 👨‍ I graduated with a Bachelor of Technology degree from GMR Institute of Technology. <br>
+- 👨‍💻 I graduated with a Bachelor of Technology degree from GMR Institute of Technology. <br>
 - 🤝 Talk to me about Data Science and DSA.
 - 🔭 Areas of Interest : Machine Learning, Deep Learning, Natural Language Processing and Open Cv. <br>
-- 📫How to reach me: tarakaramarao0506@gmail.com
+- 📫 How to reach me: tarakaramarao0506@gmail.com
   
 <br>
 
@@ -107,7 +108,8 @@
   <h2 align= "left">  🏷️Connect with me </h2>
    <p>
    <a href="http://www.linkedin.com/in/tarak0506/" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
-   <a href="https://github.com/TARAK0506/" target="_blank"> <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" style="margin-bottom: 5px;"  height="30px"/> </a>
+   <a href="https://github.com/TARAK0506/" target="_blank"> <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" style="margin-bottom: 5px;"  height="30px"/></a>
+   <a href ="https://tarakaramaraomuddada.vercel.app/" target_blank = "_blank"> <img src= "https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt ="Portfolio"/></a>
   </p>
 
 
