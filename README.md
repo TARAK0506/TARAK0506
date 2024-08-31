@@ -15,8 +15,8 @@
 
 **I am deeply passionate about problem-solving and enthusiastic about Data Science, with a strong drive to address real-life challenges. My profound interest in Data Science fuels my eagerness to contribute to open source projects. My goal is to develop a career in Data Science, leveraging my skills and enthusiasm to make a meaningful impact.**
 
-- 👨🏻‍💻 I Love Problem Solving <br>
-- 🌱 I’m currently learning ... Data Science <br>
+- 👨🏻‍💻 I love Problem Solving <br>
+- 🌱 I’m currently learning ... Generative AI <br>
 - 👨‍💻 I graduated with a Bachelor of Technology degree from GMR Institute of Technology. <br>
 - 🤝 Talk to me about Data Science and DSA.
 - 🔭 Areas of Interest : Machine Learning, Deep Learning, Natural Language Processing and Open Cv. <br>
