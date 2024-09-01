@@ -32,7 +32,7 @@
 
 
 <div align = "left" >
-  <h1 align = "center" >  🚀Coding Profiles </>  </h1>
+  <h1 align = "center" >  🚀Coding Profiles   </h1>
 
    <a href="https://leetcode.com/u/tarak0605/" target="blank"><img align="left" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="tarak0605"/></a>
   <a href="https://www.geeksforgeeks.org/user/tarak0506/" target="blank"><img align="left" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"  alt="tarak0506"/></a>
@@ -101,7 +101,6 @@
 
 ### WorkSpace
 
-
   <a> <img alt = "Notion" src ="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> </a>
   <a><img alt ="Overleaf" src ="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white"> </a>
 
@@ -111,17 +110,22 @@
 
   <h2 align= "left">  🏷️Connect with me </h2>
    <p>
+    <a href ="https://tarakaramaraomuddada.vercel.app/" target_blank = "_blank"> <img src= "https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt ="Portfolio"/></a>
    <a href="http://www.linkedin.com/in/tarak0506/" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
    <a href="https://github.com/TARAK0506/" target="_blank"> <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" style="margin-bottom: 5px;"  height="30px"/></a>
-   <a href ="https://tarakaramaraomuddada.vercel.app/" target_blank = "_blank"> <img src= "https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt ="Portfolio"/></a>
   </p>
 <br>
 <div align="center" >
  <h1> <b>Github Updates <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30px" height="35px"></b> </h1>
+
+ 
+ 
  <div align=center>
-  <img src="https://streak-stats.demolab.com/?user=tarak0506&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<!--    ![](https://github-readme-streak-stats.herokuapp.com/?user=tarak0506&theme=dark&hide_border=false)<br/> -->
+  <img src="https://streak-stats.demolab.com/?user=tarak0506&count_private=true&theme=react&border_radius=10" alt="streak stats"/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=tarak0506&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> <br/>
 </div>
+
 
 
 
