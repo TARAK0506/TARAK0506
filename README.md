@@ -9,7 +9,10 @@
  <img src ="image.jpg">
 </div>
 
+---
+
 <br>
+
 
 <div>
 <h2>👨‍💻 About Me :</h2>
@@ -26,11 +29,10 @@
 </div>
 <br>
 
----
 
 
 <div align = "left" >
-  <h2 align = "left" >  🚀Coding Profiles </>  </h2>
+  <h1 align = "center" >  🚀Coding Profiles </>  </h1>
 
    <a href="https://leetcode.com/u/tarak0605/" target="blank"><img align="left" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="tarak0605"/></a>
   <a href="https://www.geeksforgeeks.org/user/tarak0506/" target="blank"><img align="left" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"  alt="tarak0506"/></a>
