@@ -11,6 +11,7 @@
 
 <br>
 
+<div>
 <h2>👨‍💻 About Me :</h2>
 
 **I am deeply passionate about problem-solving and enthusiastic about Data Science, with a strong drive to address real-life challenges. My profound interest in Data Science fuels my eagerness to contribute to open source projects. My goal is to develop a career in Data Science, leveraging my skills and enthusiasm to make a meaningful impact.**
@@ -21,14 +22,16 @@
 - 🤝 Talk to me about Data Science and DSA.
 - 🔭 Areas of Interest : Machine Learning, Deep Learning, Natural Language Processing and Open Cv. <br>
 - 📫 How to reach me: tarakaramarao0506@gmail.com
-  
+
+</div>
 <br>
+
+---
 
 
 <div align = "left" >
   <h2 align = "left" >  🚀Coding Profiles </>  </h2>
 
- 
    <a href="https://leetcode.com/u/tarak0605/" target="blank"><img align="left" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="tarak0605"/></a>
   <a href="https://www.geeksforgeeks.org/user/tarak0506/" target="blank"><img align="left" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"  alt="tarak0506"/></a>
   <a href="https://www.codechef.com/users/cse_c3" target="blank"><img align="left" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="Codechef"/></a>
@@ -40,14 +43,13 @@
 <br>
 <br>
 
-
 <br> 
 
 
+ <h1 align="center"> <b> <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" height="30px" width-"30px"> My Skill Set
+ <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" height="30px" width-"30px"> </b> </h1>
 
-
-  ## 🛠️ My Tech Stack
-
+  
 ### 👨‍💻 Programming languages
 <p>
     <a href="#"><img alt="C"   src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
@@ -113,7 +115,7 @@
   </p>
 <br>
 <div align="center" >
- <h2 align="left">📈 GitHub Stats</h2>
+ <h1> <b>Github Updates <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30px" height="35px"></b> </h1>
  <div align=center>
   <img src="https://streak-stats.demolab.com/?user=tarak0506&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img src="https://github-readme-stats.vercel.app/api?username=tarak0506&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> <br/>
