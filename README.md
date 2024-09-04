@@ -32,7 +32,7 @@
 
 
 <div align = "left" >
-  <h1 align = "center" >  🚀Coding Profiles   </h1>
+  <h1 align = "center" >  <b> <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" height="30px" width-"30px"> Coding Profiles <b> <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" height="30px" width-"30px">  </h1>
 
    <a href="https://leetcode.com/u/tarak0605/" target="blank"><img align="left" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="tarak0605"/></a>
   <a href="https://www.geeksforgeeks.org/user/tarak0506/" target="blank"><img align="left" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"  alt="tarak0506"/></a>
