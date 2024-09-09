@@ -1,13 +1,17 @@
 ## Hi there 👋, I am Taraka Ramarao Muddada
 
- <a href ="https://tarakaramaraomuddada.vercel.app/" target_blank = "_blank"><img src= "https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt ="Portfolio" /><br>
+<div align="left">
+  <a href="https://tarakaramaraomuddada.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
 
-<div style="text-align: right;">
+
+<div align="right">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=tarak0506&label=Profile%20Views&color=0&icon=0&pretty=true" alt="Profile Views" />
   </a>
 </div>
-
 
 
 <div align="left">
@@ -16,25 +20,18 @@
 
 ---
 
+## 👨‍💻 About Me :
+
+I am **Taraka Ramarao Muddada**, a 22-year-old Data Science Enthusiast from Andhra Pradesh. I am passionate about Data Science and have a strong drive to address real-life challenges. My deep interest in Data Science motivates me to contribute to open-source projects. I aim to build a career in Data Science, utilizing my skills and enthusiasm to make a meaningful impact.
+
+- 👨‍💻 I graduated with a Bachelor of Technology degree from **GMR Institute of Technology**.
+- 🌱 I’m currently learning about **Generative AI**.
+- 👨🏻‍💻 I love problem-solving.
+- 🤝 I'm actively engaged in projects related to **Data Science**, **Machine Learning**, **Deep Learning**, and **Natural Language Processing**.
+- 🔭 My career interests are focused on **Data Science**, **Natural Language Processing**, **Generative AI**, and **OpenCV**.
+- 📫 How to reach me: [tarakaramarao0506@gmail.com](mailto:tarakaramarao0506@gmail.com)
+
 <br>
-
-
-<div>
-<h2>👨‍💻 About Me :</h2>
-
-**I am Taraka Ramarao Muddada, a 22-year-old Data Science Enthusiast from Andhra Pradesh. I am passionate about Data Science and have a strong drive to address real-life challenges. My deep interest in Data Science motivates me to contribute to open-source projects. I aim to build a career in Data Science, utilizing my skills and enthusiasm to make a meaningful impact.**
-
-- 👨‍💻 I graduated with a Bachelor of Technology degree from **GMR Institute of Technology**.<br>
-- 🌱 I’m currently learning about **Generative AI**. <br>
-- 👨🏻‍💻 I love Problem-solving. <br>
-- 🤝 I'm actively engaged in projects related to  **Data Science**, **Machine Learning**, **Deep Learning** and **Natural Language Processing**. <br>
-- 🔭 My Career Interests are focused on **Data Science**, **Natural Language Processing**, **Gernerative AI** and **Open Cv**. <br>
-- 📫 How to reach me: tarakaramarao0506@gmail.com
-
-</div>
-<br>
-
-
 
 <div align = "left" >
   <h1 align = "center" >  <b> <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" height="30px" width-"30px"> Coding Profiles <b> <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" height="30px" width-"30px">  </h1>
@@ -110,47 +107,25 @@
   <a><img alt ="Overleaf" src ="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white"> </a>
 
 
+<h1 align="center">
+  <b>
+    <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" height="30px" width="30px" alt="Animated GIF" style="margin-right: 10px;"> 
+    Connect with me 
+    <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" height="30px" width="30px" alt="Animated GIF" style="margin-left: 10px;">
+  </b>
+</h1>
 
-
-
-  <h2 align= "left">  🏷️Connect with me </h2>
    <p>
     <a href ="https://tarakaramaraomuddada.vercel.app/" target_blank = "_blank"> <img src= "https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt ="Portfolio"/></a>
    <a href="http://www.linkedin.com/in/tarak0506/" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
    <a href="https://github.com/TARAK0506/" target="_blank"> <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" style="margin-bottom: 5px;"  height="30px"/></a>
   </p>
 <br>
-<div align="center" >
- <h1> <b>Github Updates <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30px" height="35px"></b> </h1>
 
- 
- 
- <div align=center>
-<!--    ![](https://github-readme-streak-stats.herokuapp.com/?user=tarak0506&theme=dark&hide_border=false)<br/> -->
-  <img src="https://streak-stats.demolab.com/?user=tarak0506&count_private=true&theme=react&border_radius=10" alt="streak stats"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=tarak0506&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> <br/>
+
+
+<div align="center">
+  <h1><b>Github Updates <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30px" height="35px" alt="Animated GIF"></b></h1>
+  <img src="https://streak-stats.demolab.com/?user=tarak0506&count_private=true&theme=react&border_radius=10" alt="Streak Stats"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tarak0506&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="Readme Stats" />
 </div>
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-  
-
-
-
-
-
-
-
-
