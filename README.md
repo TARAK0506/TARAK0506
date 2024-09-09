@@ -1,9 +1,14 @@
 ## Hi there 👋, I am Taraka Ramarao Muddada
 
  <a href ="https://tarakaramaraomuddada.vercel.app/" target_blank = "_blank"><img src= "https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt ="Portfolio" /><br>
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=tarak0506&label=Profile%20Views&color=0&icon=0&pretty=true" />
-</a>
+
+<div style="text-align: right;">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=tarak0506&label=Profile%20Views&color=0&icon=0&pretty=true" alt="Profile Views" />
+  </a>
+</div>
+
+
 
 <div align="left">
  <img src ="image.jpg">
