@@ -17,13 +17,13 @@
 <div>
 <h2>👨‍💻 About Me :</h2>
 
-**I am deeply passionate about problem-solving and enthusiastic about Data Science, with a strong drive to address real-life challenges. My profound interest in Data Science fuels my eagerness to contribute to open source projects. My goal is to develop a career in Data Science, leveraging my skills and enthusiasm to make a meaningful impact.**
+**I am Taraka Ramarao Muddada, a 22-year-old Data Science Enthusiast from Andhra Pradesh. I am passionate about Data Science and have a strong drive to address real-life challenges. My deep interest in Data Science motivates me to contribute to open-source projects. I aim to build a career in Data Science, utilizing my skills and enthusiasm to make a meaningful impact.**
 
-- 👨🏻‍💻 I love Problem Solving <br>
-- 🌱 I’m currently learning ... Generative AI <br>
-- 👨‍💻 I graduated with a Bachelor of Technology degree from GMR Institute of Technology. <br>
-- 🤝 Talk to me about Data Science and DSA.
-- 🔭 Areas of Interest : Machine Learning, Deep Learning, Natural Language Processing and Open Cv. <br>
+- 👨‍💻 I graduated with a Bachelor of Technology degree from **GMR Institute of Technology**.<br>
+- 🌱 I’m currently learning about **Generative AI** <br>
+- 👨🏻‍💻 I love Problem-solving <br>
+- 🤝 I'm actively engaged in projects related to  **Data Science**, **Machine Learning**, **Deep Learning** and **Natural Language Processing**. <br>
+- 🔭 My Career Interests are focused on **Data Science**, **Natural Language Processing**, **Gernerative AI** and **Open Cv**. <br>
 - 📫 How to reach me: tarakaramarao0506@gmail.com
 
 </div>
