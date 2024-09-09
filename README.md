@@ -1,4 +1,4 @@
-## Hi there 👋, I am Taraka Rama Rao Muddada
+## Hi there 👋, I am Taraka Ramarao Muddada
 
  <a href ="https://tarakaramaraomuddada.vercel.app/" target_blank = "_blank"><img src= "https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt ="Portfolio" /><br>
 <a href="https://visitcount.itsvg.in">
@@ -20,8 +20,8 @@
 **I am Taraka Ramarao Muddada, a 22-year-old Data Science Enthusiast from Andhra Pradesh. I am passionate about Data Science and have a strong drive to address real-life challenges. My deep interest in Data Science motivates me to contribute to open-source projects. I aim to build a career in Data Science, utilizing my skills and enthusiasm to make a meaningful impact.**
 
 - 👨‍💻 I graduated with a Bachelor of Technology degree from **GMR Institute of Technology**.<br>
-- 🌱 I’m currently learning about **Generative AI** <br>
-- 👨🏻‍💻 I love Problem-solving <br>
+- 🌱 I’m currently learning about **Generative AI**. <br>
+- 👨🏻‍💻 I love Problem-solving. <br>
 - 🤝 I'm actively engaged in projects related to  **Data Science**, **Machine Learning**, **Deep Learning** and **Natural Language Processing**. <br>
 - 🔭 My Career Interests are focused on **Data Science**, **Natural Language Processing**, **Gernerative AI** and **Open Cv**. <br>
 - 📫 How to reach me: tarakaramarao0506@gmail.com
