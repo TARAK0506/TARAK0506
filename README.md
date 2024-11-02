@@ -1,7 +1,7 @@
 ## Hi there 👋, I am Taraka Ramarao Muddada
 
 <div align="left">
-  <a href="https://tarakaramaraomuddada.vercel.app/" target="_blank">
+  <a href="https://tarakaramaraomuddada.me/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </div>
@@ -103,7 +103,7 @@ I am **Taraka Ramarao Muddada**, a 22-year-old Data Science Enthusiast from Andh
 
 ### WorkSpace
 
-  <a> <img alt = "Notion" src ="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> </a>
+  <a href ="https://polydactyl-buckthorn-dcd.notion.site/Profile-ce3529d2d68e4474903c4efd5ed7042c?pvs=4" target_blank = "_blank"> <img alt = "Notion" src ="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> </a>
   <a><img alt ="Overleaf" src ="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white"> </a>
 
 
