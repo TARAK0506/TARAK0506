@@ -117,7 +117,7 @@ I am **Taraka Ramarao Muddada**, a 22-year-old Data Science Enthusiast from Andh
 
 ### WorkSpace
 
-  <a href ="https://polydactyl-buckthorn-dcd.notion.site/Profile-ce3529d2d68e4474903c4efd5ed7042c?pvs=4" target_blank = "_blank"> <img alt = "Notion" src ="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" ></a> 
+  <a href ="https://tarakaramaraomuddada.notion.site/Portfolio-104af5a7165280ad90f1e5eefaa68ff9" target_blank = "_blank"> <img alt = "Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" ></a> 
   <a><img alt ="Overleaf" src ="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white"></a>
   <a><img alt ="ASUS Laptop" src ="https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white"> </a>
 
