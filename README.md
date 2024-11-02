@@ -41,8 +41,12 @@ I am **Taraka Ramarao Muddada**, a 22-year-old Data Science Enthusiast from Andh
   <a href="https://www.geeksforgeeks.org/user/tarak0506/" target="blank"><img align="left" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"  alt="tarak0506"/></a>
   <a href="https://www.codechef.com/users/cse_c3" target="blank"><img align="left" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="Codechef"/></a>
   <a href="https://www.hackerrank.com/profile/tarak0506" target="blank"><img align="left" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"  alt="tarak0506"/></a>
-   <a href="https://www.kaggle.com/tarakaramaraomuddada/code" target="blank"><img align="left" src="https://img.shields.io/badge/Kaggle-3793EF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Tarak"/></a>
- 
+   <a href="https://codolio.com/profile/tarak0506" target="blank"><img align="left" src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=Codolio&logoColor=white" alt="Codolio"/></a>
+
+   
+
+
+   
   
 </div>
 <br>
@@ -127,10 +131,10 @@ I am **Taraka Ramarao Muddada**, a 22-year-old Data Science Enthusiast from Andh
 </h1>
 
    <p>
-    <a href ="https://tarakaramaraomuddada.vercel.app/" target_blank = "_blank"> <img src= "https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt ="Portfolio"/></a>
-   <a href="http://www.linkedin.com/in/tarak0506/" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
-   <a href="https://github.com/TARAK0506/" target="_blank"> <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" style="margin-bottom: 5px;"  height="30px"/></a>
-     <a href="mailto:tarakaramarao0506@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+    <a href ="https://tarakaramaraomuddada.vercel.app/" target_blank = "_blank"> <img src= "https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt ="Portfolio" height="30px" width-"30px"/></a>
+   <a href="http://www.linkedin.com/in/tarak0506/" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30px" width-"30px"/></a> 
+   <a href="https://github.com/TARAK0506/" target="_blank"> <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" style="margin-bottom: 5px;"  height="30px" width-"30px"/></a>
+     <a href="mailto:tarakaramarao0506@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30px" width-"30px"></a>
   </p>
 <br>
 
