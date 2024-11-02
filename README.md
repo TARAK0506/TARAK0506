@@ -30,6 +30,7 @@ I am **Taraka Ramarao Muddada**, a 22-year-old Data Science Enthusiast from Andh
 - 🤝 I'm actively engaged in projects related to **Data Science**, **Machine Learning**, **Deep Learning**, and **Natural Language Processing**.
 - 🔭 My career interests are focused on **Data Science**, **Natural Language Processing**, **Generative AI**, and **OpenCV**.
 - 📫 How to reach me: [tarakaramarao0506@gmail.com](mailto:tarakaramarao0506@gmail.com)
+   
 
 <br>
 
@@ -56,55 +57,65 @@ I am **Taraka Ramarao Muddada**, a 22-year-old Data Science Enthusiast from Andh
   
 ### 👨‍💻 Programming languages
 <p>
-    <a href="#"><img alt="C"   src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
-    <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a> 
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"></a>
+    <a href="#"><img alt="C"  src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="30px" width-"30px"></a>
+    <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="30px" width-"30px"></a> 
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="30px" width-"30px"></a>
+<!--     <a href="#"><img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"></a> -->
 <!--     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a> -->
-    <a href="#"><img alt="SQL" src="https://img.shields.io/badge/sql%20-%2314354C.svg?&style=for-the-badge&logo=sql&logoColor=white"></a> 
+    <a href="#"><img alt="SQL" src="https://img.shields.io/badge/sql%20-%2314354C.svg?&style=for-the-badge&logo=sql&logoColor=white" height="30px" width-"30px"></a> 
 </p>              
                 
                 
 ### 🧰 Libraries and Frameworks
 
 <p>
-    <a href ="#"><img alt = "Pandas" src= "https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"></a>
-    <a href ="#"><img alt = "NumPy" src= "https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></a>
-    <a href ="#"><img alt = "Scikit Learn" src = "https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
-    <a href ="#"><img alt = "TensorFlow" src= "https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"></a>
-    <a href ="#"><img alt = "Keras" src= "https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"></a>
-    <a href ="#"><img alt = "OpenCv" src= "https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"></a>
-    <a href ="#"><img alt = "Streamlit" src = "https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"></a>
-    <a href ="#"><img alt = "Flask" src = "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
+    <a href ="#"><img alt = "Pandas" src= "https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" height="30px" width-"30px"></a>
+    <a href ="#"><img alt = "NumPy" src= "https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" height="30px" width-"30px"></a>
+    <a href ="#"><img alt = "Scikit Learn" src = "https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="30px" width-"30px"></a>
+    <a href ="#"><img alt = "TensorFlow" src= "https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" height="30px" width-"30px"></a>
+    <a href ="#"><img alt = "Keras" src= "https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" height="30px" width-"30px"></a>
+    <a href ="#"><img alt = "OpenCv" src= "https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" height="30px" width-"30px"></a>
+    <a href ="#"><img alt = "Streamlit" src = "https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" height="30px" width-"30px"></a>
+    <a href ="#"><img alt = "Flask" src = "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="30px" width-"30px"></a>
  </p>   
- 
+
+ ### Generative AI 
+ <p>
+   <a href = "#"><img alt = "Langchain" src = "https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="30px" width-"30px"></a>
+   <a href = "#"><img alt = "HuggingFace" src = "https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black" height="30px" width-"30px"></a>
+   <a href = "#"><img alt = "FastAPI" src = "https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" height="30px" width-"30px"></a>
+   
+ </p>
 
  ### 💻 Software and tools
  
 <p>
-    <a href="#"><img alt="Brave" src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+    <a href="#"><img alt="Brave" src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" height="30px" width-"30px"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="30px" width-"30px"></a>
+<!--     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a> -->
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" height="30px" width-"30px"></a>
 </p>
 
 
 ### 👨‍💻 IDE 
 <p>
-  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
-  <a href="#"><img alt="Colab" src ="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></a>
-  <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></a>
+  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="30px" width-"30px"></a>
+  <a href="#"><img alt="Colab" src ="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" height="30px" width-"30px"></a>
+  <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" height="30px" width-"30px"></a>
 </p>
 
     
 ### 🗄️ Databases
 <p>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="Sqlite" src ="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="30px" width-"30px"></a>
+    <a href="#"><img alt="Sqlite" src ="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="30px" width-"30px"></a>
 </p>
 
 ### WorkSpace
 
-  <a href ="https://polydactyl-buckthorn-dcd.notion.site/Profile-ce3529d2d68e4474903c4efd5ed7042c?pvs=4" target_blank = "_blank"> <img alt = "Notion" src ="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> </a>
-  <a><img alt ="Overleaf" src ="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white"> </a>
+  <a href ="https://polydactyl-buckthorn-dcd.notion.site/Profile-ce3529d2d68e4474903c4efd5ed7042c?pvs=4" target_blank = "_blank"> <img alt = "Notion" src ="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" ></a> 
+  <a><img alt ="Overleaf" src ="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white"></a>
+  <a><img alt ="ASUS Laptop" src ="https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white"> </a>
 
 
 <h1 align="center">
@@ -119,6 +130,7 @@ I am **Taraka Ramarao Muddada**, a 22-year-old Data Science Enthusiast from Andh
     <a href ="https://tarakaramaraomuddada.vercel.app/" target_blank = "_blank"> <img src= "https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt ="Portfolio"/></a>
    <a href="http://www.linkedin.com/in/tarak0506/" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
    <a href="https://github.com/TARAK0506/" target="_blank"> <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" style="margin-bottom: 5px;"  height="30px"/></a>
+     <a href="mailto:tarakaramarao0506@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   </p>
 <br>
 
