@@ -30,6 +30,7 @@ I am **Taraka Ramarao Muddada**, a 22-year-old Data Science Enthusiast from Andh
 - 🤝 I'm actively engaged in projects related to **Data Science**, **Machine Learning**, **Deep Learning**, and **Natural Language Processing**.
 - 🔭 My career interests are focused on **Data Science**, **Natural Language Processing**, **Generative AI**, and **OpenCV**.
 - 📫 How to reach me: [tarakaramarao0506@gmail.com](mailto:tarakaramarao0506@gmail.com)
+- <p dir="auto">📄 Wanna know about me more? Feel free to go through my resume <a href="https://drive.google.com/file/d/1ZzVM9M8umSM3g2_eDOq7JTAEgbiGuF9R/view?usp=sharing" rel="nofollow">Resume View Link</a></p>
    
 
 <br>
