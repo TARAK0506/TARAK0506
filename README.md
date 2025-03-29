@@ -145,3 +145,25 @@ I am **Taraka Ramarao Muddada**, a 22-year-old Data Science Enthusiast from Andh
   <img src="https://streak-stats.demolab.com/?user=tarak0506&count_private=true&theme=react&border_radius=10" alt="Streak Stats"/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=tarak0506&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="Readme Stats" />
 </div>
+
+
+
+<h1 align="center">
+  <b>
+    <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" height="30px" width="30px" alt="Animated GIF" style="margin-right: 10px;"> 
+    Leetcode stats 
+    <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" height="30px" width="30px" alt="Animated GIF" style="margin-left: 10px;">
+  </b>
+</h1>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/tarak0605?theme=dark&font=Noto%20Sans%20Shavian&ext=contest)
+
+<h1 align="center">
+  <b>
+    <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" height="30px" width="30px" alt="Animated GIF" style="margin-right: 10px;"> 
+    GeeksforGeeks Stats 
+    <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" height="30px" width="30px" alt="Animated GIF" style="margin-left: 10px;">
+  </b>
+</h1>
+
+![GeeksforGeeks Stats](https://gfgstatscard.vercel.app/tarak0506?theme=dark)
