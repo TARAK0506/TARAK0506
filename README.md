@@ -149,7 +149,7 @@ I am **Taraka Ramarao Muddada**, a 22-year-old Data Science Enthusiast from Andh
 
 
 
-<h1 align="center">
+<!--     <h1 align="center">
   <b>
     <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" height="30px" width="30px" alt="Animated GIF" style="margin-right: 10px;"> 
     Leetcode stats 
@@ -157,7 +157,7 @@ I am **Taraka Ramarao Muddada**, a 22-year-old Data Science Enthusiast from Andh
   </b>
 </h1>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/tarak0605?theme=dark&font=Noto%20Sans%20Shavian&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/tarak0605?theme=dark&font=Noto%20Sans%20Shavian&ext=contest)  -->
 
 <h1 align="center">
   <b>
