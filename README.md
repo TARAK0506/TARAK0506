@@ -9,7 +9,8 @@
 
 <div align="right">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=tarak0506&label=Profile%20Views&color=0&icon=0&pretty=true" alt="Profile Views" />
+    <!--     <img src="https://visitcount.itsvg.in/api?id=tarak0506&label=Profile%20Views&color=0&icon=0&pretty=true" alt="Profile Views" /> -->
+    <img src="https://komarev.com/ghpvc/?username=tarak0506&style=flat-square" alt="Profile Views" alt="Profile Views"/>
   </a>
 </div>
 
@@ -35,8 +36,16 @@ I am **Taraka Ramarao Muddada**, a 22-year-old Data Science Enthusiast from Andh
 
 <br>
 
-<div align = "left" >
-  <h1 align = "center" >  <b> <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" height="30px" width-"30px"> Coding Profiles <b> <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" height="30px" width-"30px">  </h1>
+ <!--    <div align = "left" >
+  <h1 align = "center" >  <b> <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" height="30px" width-"30px"> Coding Profiles <b> <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" height="30px" width-"30px">  </h1> -->
+
+   <h1 align="center">
+  <b>
+    <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" height="30px" width="30px" alt="Animated GIF" style="margin-right: 10px;"> 
+    Coding Profiles
+    <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" height="30px" width="30px" alt="Animated GIF" style="margin-left: 10px;">
+  </b>
+</h1>
 
    <a href="https://leetcode.com/u/tarak0605/" target="blank"><img align="left" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="tarak0605"/></a>
   <a href="https://www.geeksforgeeks.org/user/tarak0506/" target="blank"><img align="left" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"  alt="tarak0506"/></a>
@@ -56,8 +65,16 @@ I am **Taraka Ramarao Muddada**, a 22-year-old Data Science Enthusiast from Andh
 <br> 
 
 
- <h1 align="center"> <b> <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" height="30px" width-"30px"> My Skill Set
- <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" height="30px" width-"30px"> </b> </h1>
+ <!--     <h1 align="center"> <b> <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" height="30px" width-"30px"> My Skill Set
+ <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" height="30px" width-"30px"> </b> </h1> -->
+
+ <h1 align="center">
+  <b>
+    <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" height="30px" width="30px" alt="Animated GIF" style="margin-right: 10px;"> 
+    My Skill Set
+    <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" height="30px" width="30px" alt="Animated GIF" style="margin-left: 10px;">
+  </b>
+</h1>
 
   
 ### 👨‍💻 Programming languages
