@@ -47,10 +47,14 @@ I am **Taraka Ramarao Muddada**, a 22-year-old Data Science Enthusiast from Andh
   </b>
 </h1>
 
-   <a href="https://leetcode.com/u/tarak0605/" target="blank"><img align="left" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="tarak0605"/></a>
+   <a href="https://leetcode.com/u/tarak0506/" target="blank"><img align="left" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="tarak0605"/></a>
+   
   <a href="https://www.geeksforgeeks.org/user/tarak0506/" target="blank"><img align="left" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"  alt="tarak0506"/></a>
+
+  <a href = "https://codeforces.com/profile/tarak0506" target = "blank" > <img align = "left" src = "https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt ="tarak0506"/> </a>
+  
   <a href="https://www.codechef.com/users/cse_c3" target="blank"><img align="left" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="Codechef"/></a>
-  <a href="https://www.hackerrank.com/profile/tarak0506" target="blank"><img align="left" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"  alt="tarak0506"/></a>
+  
    <a href="https://codolio.com/profile/tarak0506" target="blank"><img align="left" src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=Codolio&logoColor=white" alt="Codolio"/></a>
 
    
